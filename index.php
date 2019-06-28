@@ -12,7 +12,7 @@
 		<!-- Animation Link -->
 		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 		<!-- Animate.css -->
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="style1.css">
 		<style>
 		#particles-js{
 		  height: 100vh;
